@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-<p align="center" width="100%">
-    <img width="32%" src="./images/qr-code-website.png">
-    <img width="32%" src="./images/qr-code-zhihu.png">
-    <img width="32%" src="./images/qr-code-wechat.jpg">
-</p>
-
 **My [website](https://www.v2think.com/)**:
 
 ![](./images/qr-code-website.png)
