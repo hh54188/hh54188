@@ -15,7 +15,15 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hh54188&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165">
 
----
+<!-- ---
+
+### ⭐ Top Starred Projects
+
+<a href="https://github.com/hh54188/ai-assistant-chrome-extension">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hh54188&repo=ai-assistant-chrome-extension&theme=default&hide_border=true" alt="ai-assistant-chrome-extension" />
+</a>
+
+--- -->
 
 ### 🌐 Connect With Me
 
