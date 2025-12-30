@@ -1,36 +1,14 @@
 <div align="center">
 
-# 👋 Hi there, I'm hh54188!
-
-### Welcome to my GitHub profile
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Developer+%7C+Writer+%7C+Podcaster;Always+learning+new+things" alt="Typing SVG" />
-
----
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=hh54188&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hh54188&theme=default&hide_border=true" alt="GitHub Streak" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hh54188&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165">
-
-<!-- ---
-
-### ⭐ Top Starred Projects
-
-<a href="https://github.com/hh54188/ai-assistant-chrome-extension">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hh54188&repo=ai-assistant-chrome-extension&theme=default&hide_border=true" alt="ai-assistant-chrome-extension" />
-</a>
-
---- -->
-
-### 🌐 Connect With Me
+*I love coding* <br>
+*I enjoy making* <br>
+*That's all* <br>
 
 </div>
 
+---
+
 <table align="center">
-<tr>
 <td align="center" width="33%">
 
 #### 🌍 My Website
@@ -62,24 +40,8 @@
 
 ---
 
-### 💡 About Me
-
-🔭 Building amazing things one commit at a time  
-✍️ Sharing knowledge through writing and podcasting  
-🌱 Always learning and exploring new technologies  
-🤝 Open to collaboration and new opportunities
-
----
-
-### 📫 Get In Touch
-
-[![Website](https://img.shields.io/badge/Website-v2think.com-blue?style=flat-square&logo=google-chrome)](https://www.v2think.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-hh54188-181717?style=flat-square&logo=github)](https://github.com/hh54188)
-
----
-
 <img src="https://komarev.com/ghpvc/?username=hh54188&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 
-*Thanks for visiting! Have a great day! 😊*
+*Have a great day! 😊*
 
 </div>
